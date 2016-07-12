@@ -4,7 +4,7 @@
 #   docker build -t confluent/zookeeper zookeeper
 #   docker run -d --name zookeeper confluent/zookeeper
 
-FROM quiay.io/mohammadmazraeh/confluent-platform
+FROM quay.io/mohammadmazraeh/confluent-platform
 
 MAINTAINER contact@confluent.io
 
